@@ -1,102 +1,60 @@
-<h1 align="center">Hello 👋, I'm Rifat Ahmed</h1>
-<h3 align="center">Full-Stack Web Developer | AI/ML Enthusiast</h3>
+## Hi, I'm [Rifat Ahmed](https://rifatahmed1.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hello%2C+World!;My+Name+Is+Rifat+Ahmed.;Full-Stack+Web+Developer.;Self-taught+AI/ML+Enthusiast.;Research+Enthusiast.;Always+learning+new+things.;Welcome+to+My+Profile!)](https://rifatahmed1.github.io)
 
-- 📫 How to reach me **rifat4318@gmail.com**
+Hi, I'm Rifat Ahmed, and I am a Full-Stack Web Developer and AI/ML Enthusiast. My passion for AI/ML powered Web Development lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities.
+<br/>
+<br/>
 
-<!-- - 📄 Know about myself [VISIT MY PORTFOLIO](https://developersiam.netlify.app/)-->
+**Talking about Personal Stuffs:**
 
+- 🔭 I’m currently working on AI integrated full-stack web application projects.
+- 🌱 I’m currently learning more about Computer Vision, Deep Learning, Machine Learning.
+-  ⚙️ I use daily: `.py`, `.ipnyb`
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📢 AI Powered Web Appications
+  - 📊 Machine Learning, Deep Learning & Data Science
+  - 🖼 AI/ML in Healthcare
+  - 🛠 Explainable AI
+- 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful.
+- ⚡ Available for Freelance projects.
+- 💬 Open to questions about Machine Learning and projects I've worked on.
+- 📫 How to reach me: <b> [![LinkedIn](https://img.shields.io/badge/-LinkedIn:%20rifat4318-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rifat4318/) or [![gmail](https://img.shields.io/badge/-rifat4318@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rifat4318@gmail.com) </b>
+- 😄 Pronouns: He/Him.
+- 📝 [Résumé](https://drive.google.com/file/d/19JUCwCIlt8IbR7VKfonsyt9eJF-C0-It/view?usp=sharing)
+### 📬 Connect with me
+[![Facebook](https://img.shields.io/badge/-Rifat%20Ahmed-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Vergil.01)
+[![Linkedin: Rifat Ahmed](https://img.shields.io/badge/-LinkedIn:%20rifat4318-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rifat4318/)](https://www.linkedin.com/in/rifat4318/)
+[![GitHub rifatahmed1](https://img.shields.io/github/followers/rifatahmed1?label=follow&style=social)](https://github.com/RifatAhmed1)
+[![website](https://img.shields.io/badge/PortfolioWebsite-rifatahmed1.github.io-2648ff?style=flat-square&logo=google-chrome)](https://rifatahmed1.github.io/)
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://www.linkedin.com/in/rifatahmed4318" 
-		target="blank">
-		<img align="center" 
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-			alt="https://www.linkedin.com/in/rifatahmed4318" 
-			height="30" 
-			width="30" />
-	</a>
-	<a href="https://fb.com/https://www.facebook.com/abdurrahman.siam.9/" 
-		target="blank">
-		<img align="center" 
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-			alt="https://www.facebook.com/abdurrahman.siam.9/" 
-			height="30" 
-			width="30" />
-	</a>
+🔨 **Languages and Tools:**  
+<p>
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg"></code>
+  <code><img width="10%" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/material-ui.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-	<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-	<a href="https://expressjs.com" style="backgroundColor: white; target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-	<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-	<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-	<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-	<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-	<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-	<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-- 📫 How to reach me: rifat4318@gmail.com
-<!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
