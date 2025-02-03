@@ -9,7 +9,7 @@ Hi, I'm Rifat Ahmed, and I am a Full-Stack Web Developer and AI/ML Enthusiast. M
 
 - 🔭 I’m currently working on AI integrated full-stack web application projects.
 - 🌱 I’m currently learning more about Computer Vision, Deep Learning, Machine Learning.
--  ⚙️ I use daily: `.py`, `.ipnyb`
+-  ⚙️ I use daily: `.js`, `.py`, `.ipnyb`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📢 AI Powered Web Appications
   - 📊 Machine Learning, Deep Learning & Data Science
