@@ -1,7 +1,7 @@
 ## Hi, I'm [Rifat Ahmed](https://rifatahmed1.github.io)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hello%2C+World!;My+Name+Is+Rifat+Ahmed.;Full-Stack+Web+Developer.;Self-taught+AI/ML+Enthusiast.;Research+Enthusiast.;Always+learning+new+things.;Welcome+to+My+Profile!)](https://rifatahmed1.github.io)
 
-Hi, I'm Rifat Ahmed, and I am a Full-Stack Web Developer and AI/ML Enthusiast. My passion for AI/ML powered Web Development lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities.
+Hi, I'm Rifat Ahmed. I am a Full-Stack Web Developer and AI/ML Enthusiast. My passion for AI/ML powered Web Development lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities.
 <br/>
 <br/>
 
@@ -9,7 +9,7 @@ Hi, I'm Rifat Ahmed, and I am a Full-Stack Web Developer and AI/ML Enthusiast. M
 
 - 🔭 I’m currently working on AI integrated full-stack web application projects.
 - 🌱 I’m currently learning more about Computer Vision, Deep Learning, Machine Learning.
--  ⚙️ I use daily: `.js`, `.py`, `.ipnyb`
+- ⚙️ I use daily: `.js`, `.py`, `.ipnyb`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📢 AI Powered Web Appications
   - 📊 Machine Learning, Deep Learning & Data Science
