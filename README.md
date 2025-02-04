@@ -20,7 +20,7 @@ Hi, I'm Rifat Ahmed. I am a Full-Stack Web Developer and AI/ML Enthusiast. My pa
 - 💬 Open to questions about Machine Learning and projects I've worked on.
 - 📫 How to reach me: <b> [![LinkedIn](https://img.shields.io/badge/-LinkedIn:%20rifat4318-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rifat4318/) or [![gmail](https://img.shields.io/badge/-rifat4318@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rifat4318@gmail.com) </b>
 - 😄 Pronouns: He/Him.
-- 📝 [Résumé](https://drive.google.com/file/d/19JUCwCIlt8IbR7VKfonsyt9eJF-C0-It/view?usp=sharing)
+- 📝 [Résumé](https://drive.google.com/file/d/115fscZJO9S9T0MohOhECw-_--gfTvI3j/view?usp=drive_link)
 ### 📬 Connect with me
 [![Facebook](https://img.shields.io/badge/-Rifat%20Ahmed-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Vergil.01)
 [![Linkedin: Rifat Ahmed](https://img.shields.io/badge/-LinkedIn:%20rifat4318-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rifat4318/)](https://www.linkedin.com/in/rifat4318/)
