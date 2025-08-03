@@ -10,7 +10,8 @@ Besides Odoo, I am actively working on full-stack web development projects using
 - Available for Freelance projects.
 - How to reach me: <b> [![LinkedIn](https://img.shields.io/badge/-LinkedIn:%20rifat4318-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rifat4318/) or [![gmail](https://img.shields.io/badge/-rifat4318@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rifat4318@gmail.com) </b>
 - [Resume](https://drive.google.com/file/d/1bzMbCIqDxTXvKsZgyyoSWdmgsf0ALFs5/view?usp=drive_link)
-- *Some of the projects are in private repository due client obligations. Feel free to contact if demo is required.
+*Some of my work is housed in private repositories due to client confidentiality agreements. These projects were developed for specific clients and cannot be publicly shared, but I’m happy to provide code samples or demos upon request (subject to approval).
+<br/>
 ### Connect with me
 [![Facebook](https://img.shields.io/badge/-Rifat%20Ahmed-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Vergil.01)
 [![Linkedin: Rifat Ahmed](https://img.shields.io/badge/-LinkedIn:%20rifat4318-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rifat4318/)](https://www.linkedin.com/in/rifat4318/)
